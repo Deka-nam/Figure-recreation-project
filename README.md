@@ -39,7 +39,7 @@ paper-figure-recreation/
 └── .gitignore
 ```
 
-## Output Preview
+## Output examples
 > <div align="center">
 > <img src="/results/nye_fig2a_output.png" alt="2a" width="335" style="margin: 5px;">
 > <img src="/results/nye_fig2b_output_dotplot.png" alt="2b" width="500" style="margin: 5px;">
@@ -47,6 +47,6 @@ paper-figure-recreation/
 > </div>
 
 ## Notes
-All figures are recreated for educational purposes to practice data visualization and reproducibility. This project does not include raw data extraction or proprietary information from the original paper.
+*All figures are recreated for educational purposes to practice data visualization and reproducibility. This project does not include raw data extraction or proprietary information from the original paper.*
 
 
