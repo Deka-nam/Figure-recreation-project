@@ -1,6 +1,6 @@
 # Figure-recreation-project
 Recreation of scientific figures using Python for data visualization and reproducibility practice.
-# Recreation of Figures from "Microbial co-occurrences on catheters from long-term catheterized patients."
+## Recreation of Figures from "Microbial co-occurrences on catheters from long-term catheterized patients."
 
 This project recreates key data visualizations from the paper:
 > Nye, T.M., Zou, Z., Obernuefemann, C.L.P. et al. Microbial co-occurrences on catheters from long-term catheterized patients. Nat Commun 15, 61 (2024). https://doi.org/10.1038/s41467-023-44095-0
