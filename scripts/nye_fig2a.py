@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the data
-df = pd.read_csv("data/mockfile_nye2a_genus_counts.csv")
+df = pd.read_csv("data/mockfile_nyefig2a_genus_counts.csv")
 
 # Sort by count
 df = df.sort_values("Count", ascending=True)
